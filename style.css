@@ -80,11 +80,11 @@ li{
 
 li.done{
     text-decoration: line-through;
-    color: #c23030;
+    color: #ec0808;
     border-left-color: #2fdb6e;
 }
 li button{
-    background: #5E1675;
+    background: #b148d4;
     font-size: 12px;
     border-radius: 4px;
 }
