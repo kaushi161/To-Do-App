@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #3A0519;
+    background-color:#8F87F1;
     display: flex;
     height: 100px;
     justify-content: center;
@@ -9,10 +9,11 @@ body{
 
 .todo-container{
     text-align: center;
-    background-color: #93214d;
+    background-color: #C68EFD;
     padding: 30px;
     border-radius: 30px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    width: 38%;
 }
 h1{
     text-align: center;
@@ -29,7 +30,7 @@ h1{
     padding: 10px;
 }
 .input-section button{
-    background-color: black;
+    background-color: #7C4585;
     color: white;
     padding: 10px 15px;
     border: none;
@@ -42,7 +43,7 @@ button{
     padding: 8px 12px;
     margin-top: 5px;
     font-size: 16px;
-    background: #1d0c0c;
+    background: #FF4191;
     color:white;
     border: none;
     border-radius: 6px;
@@ -59,7 +60,7 @@ button{
     font-size: 12px;
 }
 .filters .active{
-    background: #1d4ed8;
+    background: #484a50;
 }
 
 ul{
@@ -79,11 +80,11 @@ li{
 
 li.done{
     text-decoration: line-through;
-    color: #999;
+    color: #f0e6e6;
     border-left-color: #16a34a;
 }
 li button{
-    background: #ef4444;
+    background: #d21d8d;
     font-size: 12px;
     border-radius: 4px;
 }
